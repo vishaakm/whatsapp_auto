@@ -1,0 +1,8 @@
+#MainWindow{
+background-image: url(res/bg.jpg);
+}
+
+QPushButton{
+    background: #3f8532;
+    padding: 10px;
+}
